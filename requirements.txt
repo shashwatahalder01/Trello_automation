@@ -1,0 +1,11 @@
+allure-pytest==2.9.43
+allure-python-commons==2.9.43
+selenium==3.141.0
+openpyxl==3.0.7
+paramiko==2.7.2
+PyMySQL==1.0.2
+pytest==6.2.3
+pytest-html-lee==0.0.1
+requests==2.22.0
+sshtunnel==0.4.0
+beautifulsoup4~=4.9.3
